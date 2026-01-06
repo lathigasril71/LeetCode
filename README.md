@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/lathigasril71/LeetCode/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/lathigasril71/LeetCode/tree/master/0412-fizz-buzz) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lathigasril71/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lathigasril71/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
