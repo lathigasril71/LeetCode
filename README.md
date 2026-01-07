@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/lathigasril71/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1480-running-sum-of-1d-array](https://github.com/lathigasril71/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/lathigasril71/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -16,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/lathigasril71/LeetCode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/lathigasril71/LeetCode/tree/master/0412-fizz-buzz) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lathigasril71/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lathigasril71/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
 | [3668-restore-finishing-order](https://github.com/lathigasril71/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Matrix
 |  |
@@ -45,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/lathigasril71/LeetCode/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
