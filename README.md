@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/lathigasril71/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/lathigasril71/LeetCode/tree/master/0412-fizz-buzz) |
+| [2413-smallest-even-multiple](https://github.com/lathigasril71/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/lathigasril71/LeetCode/tree/master/2469-convert-the-temperature) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lathigasril71/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lathigasril71/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/lathigasril71/LeetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
