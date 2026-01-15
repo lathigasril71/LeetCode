@@ -1,0 +1,15 @@
+class Solution {
+    public int alternatingSum(int[] nums) {
+       int esum=0;
+       int osum=0;
+       for(int i=0;i<nums.length;i++)
+       {
+        if(i%2==0)
+        esum=esum+nums[i];
+        else
+        osum=osum+nums[i];
+       }
+        
+        return esum-osum;
+    }
+}
