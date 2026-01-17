@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/lathigasril71/LeetCode/tree/master/0389-find-the-difference) |
 | [3668-restore-finishing-order](https://github.com/lathigasril71/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Matrix
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lathigasril71/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/lathigasril71/LeetCode/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/lathigasril71/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/lathigasril71/LeetCode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/lathigasril71/LeetCode/tree/master/0709-to-lower-case) |
 ## Two Pointers
@@ -70,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/lathigasril71/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/lathigasril71/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/lathigasril71/LeetCode/tree/master/0389-find-the-difference) |
 ## Number Theory
 |  |
 | ------- |
