@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/lathigasril71/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/lathigasril71/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/lathigasril71/LeetCode/tree/master/0412-fizz-buzz) |
 | [2413-smallest-even-multiple](https://github.com/lathigasril71/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lathigasril71/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/lathigasril71/LeetCode/tree/master/0389-find-the-difference) |
 | [3668-restore-finishing-order](https://github.com/lathigasril71/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lathigasril71/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lathigasril71/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/lathigasril71/LeetCode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/lathigasril71/LeetCode/tree/master/0389-find-the-difference) |
