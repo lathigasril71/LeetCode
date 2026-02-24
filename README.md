@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/lathigasril71/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/lathigasril71/LeetCode/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/lathigasril71/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/lathigasril71/LeetCode/tree/master/0412-fizz-buzz) |
 | [2413-smallest-even-multiple](https://github.com/lathigasril71/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/lathigasril71/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/lathigasril71/LeetCode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/lathigasril71/LeetCode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/lathigasril71/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/lathigasril71/LeetCode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/lathigasril71/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## String Matching
 |  |
