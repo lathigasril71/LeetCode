@@ -1,10 +1,16 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int ans [] = Arrays.stream(nums).distinct().toArray();
-
-        for (int i = 0; i < ans.length; i++) {
-            nums[i] = ans[i];
-        }
-        return ans.length;
+        int p1= nums[0];
+        int p2= 1;
+       for(int i=1;i<nums.length;i++)
+       {
+            if(nums[i] != p1)
+            {
+                nums[p2] = nums[i];
+                p1 = nums[i];
+                p2++;
+            }
+       }
+       return p2;
     }
 }
