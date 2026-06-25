@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lathigasril71/LeetCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/lathigasril71/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/lathigasril71/LeetCode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/lathigasril71/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/lathigasril71/LeetCode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/lathigasril71/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/lathigasril71/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/lathigasril71/LeetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/lathigasril71/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/lathigasril71/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/lathigasril71/LeetCode/tree/master/0412-fizz-buzz) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lathigasril71/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/lathigasril71/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/lathigasril71/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/lathigasril71/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/lathigasril71/LeetCode/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
