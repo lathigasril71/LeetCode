@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/lathigasril71/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lathigasril71/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/lathigasril71/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/lathigasril71/LeetCode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/lathigasril71/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1480-running-sum-of-1d-array](https://github.com/lathigasril71/LeetCode/tree/master/1480-running-sum-of-1d-array) |
