@@ -7,18 +7,16 @@ class Solution {
     while(i < n)
     {
         if(nums[i] == 1)
-        count++;
-        else
         {
-        if(count > count_temp)    
-        count_temp = count;
-        count = 0;
+        count++;
+        count_temp = Math.max(count_temp,count);
         }
+        else
+        count = 0;
+
         i++;
     }
-    if(count_temp > count)
+    
     return count_temp;
-    else
-    return count;
     }
 }
