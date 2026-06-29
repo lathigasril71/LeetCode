@@ -12,14 +12,7 @@ class Solution {
         else
         cnt--;
     }
-    cnt=0;
-    for(int i=0;i<nums.length;i++)
-    if(nums[i] == el)
-    cnt++;
-
-    if(cnt >= nums.length/2)
+    
     return el;
-
-    return -1;
     }
 }
