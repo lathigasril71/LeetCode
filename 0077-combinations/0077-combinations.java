@@ -18,7 +18,7 @@ class Solution {
         return;
         }
 
-        if(ind == nums.length)
+        if(ind == nums.length || ds.size() > k)
         return;
 
         ds.add(nums[ind]);
