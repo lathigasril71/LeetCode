@@ -3,9 +3,7 @@ class Solution {
     Set<Integer> set = new HashSet<>();
     for(int i=0;i<nums.length;i++)
     {
-        if(!set.contains(nums[i]))
-        set.add(nums[i]);
-        else
+        if(!set.add(nums[i]))
         return true;
     }   
     return false; 
