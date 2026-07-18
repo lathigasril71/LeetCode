@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/lathigasril71/LeetCode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/lathigasril71/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lathigasril71/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/lathigasril71/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/lathigasril71/LeetCode/tree/master/0125-valid-palindrome) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lathigasril71/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/lathigasril71/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/lathigasril71/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/lathigasril71/LeetCode/tree/master/0118-pascals-triangle) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lathigasril71/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lathigasril71/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lathigasril71/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/lathigasril71/LeetCode/tree/master/0046-permutations) |
