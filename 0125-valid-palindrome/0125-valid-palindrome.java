@@ -1,14 +1,25 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        String s1="";
-       char a[] = s.toCharArray();
-        for(char temp : a)
+    int l=0, r = s.length()-1;
+    String s1 = s.toLowerCase();
+    StringBuilder sb = new StringBuilder();
+    while(l < r)
+    {
+        if(Character.isLetterOrDigit(s1.charAt(l)) && Character.isLetterOrDigit(s1.charAt(r)))
         {
-            if(Character.isLetterOrDigit(temp))
-            s1+=Character.toLowerCase(temp);
+            if(s1.charAt(l) == s1.charAt(r))
+            {
+                l++;
+                r--;
+            }
+            else
+            return false;
         }
-        StringBuilder sb = new StringBuilder(s1);
-        String s2=sb.reverse().toString();
-        return s1.equals(s2);
+        else if(!Character.isLetterOrDigit(s1.charAt(l)))
+        l++;
+        else 
+        r--;
+    }  
+    return true; 
     }
 }
