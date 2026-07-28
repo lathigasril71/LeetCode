@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lathigasril71/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lathigasril71/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/lathigasril71/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2418-sort-the-people](https://github.com/lathigasril71/LeetCode/tree/master/2418-sort-the-people) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/lathigasril71/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/lathigasril71/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/lathigasril71/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/lathigasril71/LeetCode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/lathigasril71/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2418-sort-the-people](https://github.com/lathigasril71/LeetCode/tree/master/2418-sort-the-people) |
 | [3668-restore-finishing-order](https://github.com/lathigasril71/LeetCode/tree/master/3668-restore-finishing-order) |
 ## Matrix
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/lathigasril71/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/lathigasril71/LeetCode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/lathigasril71/LeetCode/tree/master/0709-to-lower-case) |
+| [2418-sort-the-people](https://github.com/lathigasril71/LeetCode/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lathigasril71/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lathigasril71/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/lathigasril71/LeetCode/tree/master/0389-find-the-difference) |
+| [2418-sort-the-people](https://github.com/lathigasril71/LeetCode/tree/master/2418-sort-the-people) |
 ## Number Theory
 |  |
 | ------- |
