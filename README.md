@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/lathigasril71/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/lathigasril71/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/lathigasril71/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/lathigasril71/LeetCode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/lathigasril71/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lathigasril71/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lathigasril71/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/lathigasril71/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/lathigasril71/LeetCode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/lathigasril71/LeetCode/tree/master/0709-to-lower-case) |
+| [1528-shuffle-string](https://github.com/lathigasril71/LeetCode/tree/master/1528-shuffle-string) |
 | [2418-sort-the-people](https://github.com/lathigasril71/LeetCode/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
